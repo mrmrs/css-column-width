@@ -6,8 +6,7 @@
   "keywords": [
     "css",
     "oocss",
-    "",
-    ""
+    "column-width"
   ],
   "css-column-width": {
     "type": "git",
