@@ -28,7 +28,7 @@ or download the css on github and include in your project.
 .cw-xl {      column-width: 64rem; }
 .cw-i {       column-width: inherit; }
 
-@include break(not-small) {
+@media screen and (min-width: 48em) {
   .cw-auto-ns {    column-width: auto; }
   .cw-xxs-ns {     column-width: 4rem; }
   .cw-xs-ns {      column-width: 8rem; }
@@ -39,7 +39,7 @@ or download the css on github and include in your project.
   .cw-i-ns {       column-width: inherit; }
 }
 
-@include break(medium) {
+@media screen and (min-width: 48em) and (max-width: 64em) {
   .cw-auto-m {    column-width: auto; }
   .cw-xxs-m {     column-width: 4rem; }
   .cw-xs-m {      column-width: 8rem; }
@@ -50,7 +50,7 @@ or download the css on github and include in your project.
   .cw-i-m {       column-width: inherit; }
 }
 
-@include break(large) {
+@media screen and (min-width: 64em)  {
   .cw-auto-l {    column-width: auto; }
   .cw-xxs-l {     column-width: 4rem; }
   .cw-xs-l {      column-width: 8rem; }
