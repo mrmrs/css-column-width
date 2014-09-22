@@ -20,7 +20,8 @@ View on [npm](https://www.npmjs.org/package/css-column-width)
 ## File Size
 
 1.4K column-width.css
-1.0K column-width.min.css
+1.0K column-width.min.css 
+232B minified and gzipped
 
 ## The Code
 ```
