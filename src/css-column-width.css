@@ -12,14 +12,14 @@
 .cw-i {       column-width: inherit; }
 
 @media screen and (min-width: 48em) {
-  .cw-auto-ns {    column-width: auto; }
-  .cw-xxs-ns {     column-width: 4rem; }
-  .cw-xs-ns {      column-width: 8rem; }
-  .cw-s-ns {       column-width: 16rem; }
-  .cw-m-ns {       column-width: 32rem; }
-  .cw-l-ns {       column-width: 48rem; }
-  .cw-xl-ns {      column-width: 64rem; }
-  .cw-i-ns {       column-width: inherit; }
+  .cw-auto-s {    column-width: auto; }
+  .cw-xxs-s {     column-width: 4rem; }
+  .cw-xs-s {      column-width: 8rem; }
+  .cw-s-s {       column-width: 16rem; }
+  .cw-m-s {       column-width: 32rem; }
+  .cw-l-s {       column-width: 48rem; }
+  .cw-xl-s {      column-width: 64rem; }
+  .cw-i-s {       column-width: inherit; }
 }
 
 @media screen and (min-width:48em) and (max-width: 64em) {
