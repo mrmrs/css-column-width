@@ -11,7 +11,7 @@
 .cw-xl {      column-width: 64rem; }
 .cw-i {       column-width: inherit; }
 
-@media screen and (min-width: 48em) {
+@media screen and (min-width: 32em) {
   .cw-auto-s {    column-width: auto; }
   .cw-xxs-s {     column-width: 4rem; }
   .cw-xs-s {      column-width: 8rem; }
@@ -22,7 +22,7 @@
   .cw-i-s {       column-width: inherit; }
 }
 
-@media screen and (min-width:48em) and (max-width: 64em) {
+@media screen and (min-width:48em) {
   .cw-auto-m {    column-width: auto; }
   .cw-xxs-m {     column-width: 4rem; }
   .cw-xs-m {      column-width: 8rem; }
@@ -33,7 +33,7 @@
   .cw-i-m {       column-width: inherit; }
 }
 
-@media screen and (min-width: 64em) {
+@media screen and (min-width: 96em) {
   .cw-auto-l {    column-width: auto; }
   .cw-xxs-l {     column-width: 4rem; }
   .cw-xs-l {      column-width: 8rem; }
